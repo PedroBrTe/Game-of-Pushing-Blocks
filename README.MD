@@ -2,6 +2,10 @@
 
 ![game screenshot](image.png)
 
+## How to play
+Try to push the white square to the green square  
+The game generate a new map every time
+
 ## Comands
 W - Go Up  
 A - Go Left  
