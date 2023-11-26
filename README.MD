@@ -16,4 +16,6 @@ Q - Exit the game
 
 ## About
 It is just a basic game to learn c++ basics.  
+You can use the header file to create your own implemetation of the game.
+
 The code for this project is pretty bad, so feel free to contribute to the project.
